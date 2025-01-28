@@ -9,3 +9,4 @@ clickButton.addEventListener('click', () => {
   clickCount++; // Increment count
   clickCountDisplay.textContent = clickCount; // Update display
 });
+i making some chnges to dhis page so i think every one will satisfy.
